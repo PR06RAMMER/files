@@ -8,6 +8,3 @@ Download Scrambler (not malware):
     https://pr06rammer.github.io/files
 ## Scrambler
 Scrambler is an application that randomizes presed keys and if you select it can randomly press keys.
-Soon i will add a version named CmdScrambler which runs in cmd.
-Example:
-    CmdScrambler --random-press-interval 20 --scramble yes
